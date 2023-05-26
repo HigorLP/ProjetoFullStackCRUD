@@ -1,5 +1,6 @@
-﻿namespace ProjetoFullStackCRUD.Server.Models; 
-public class Comic {
-    public int Id { get; set; }
-    public string Name { get; set; } = string.Empty;
+﻿namespace ProjetoFullStackCRUD.Shared.Models {
+    public class Comic {
+        public int Id { get; set; }
+        public string Name { get; set; } = string.Empty;
+    }
 }

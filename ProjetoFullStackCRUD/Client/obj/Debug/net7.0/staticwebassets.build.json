@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UmJx8Ur1b1ClR64IvFz0p0+oaBqOQ78XbGOzrHWSYc8=",
+  "Hash": "VzYT/Sk9b+S4ocw5T7oHPTY7AY2ccMaOYcBbn/rXRyk=",
   "Source": "ProjetoFullStackCRUD.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -48,7 +48,7 @@
       "AssetTraitValue": "boot",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.5\\build\\net7.0\\blazor.webassembly.js"
+      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.1\\build\\net7.0\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\dotnet.7.0.5.alcfdhnqmi.js",
@@ -184,7 +184,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.1\\lib\\net7.0\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -201,7 +201,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.1\\lib\\net7.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -218,7 +218,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.1\\lib\\net7.0\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
@@ -235,7 +235,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Components.Web.dll"
+      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.1\\lib\\net7.0\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
@@ -252,7 +252,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
+      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.1\\lib\\net7.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
@@ -269,7 +269,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.1\\lib\\net7.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -320,7 +320,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.4\\lib\\net7.0\\Microsoft.Extensions.Configuration.Binder.dll"
+      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.1\\lib\\net7.0\\Microsoft.Extensions.Configuration.Binder.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.dll",
@@ -507,7 +507,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\lib\\net7.0\\Microsoft.Extensions.Options.dll"
+      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\lib\\net7.0\\Microsoft.Extensions.Options.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll",
@@ -541,7 +541,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.jsinterop\\7.0.5\\lib\\net7.0\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.jsinterop\\7.0.1\\lib\\net7.0\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
@@ -558,7 +558,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.5\\lib\\net7.0\\Microsoft.JSInterop.WebAssembly.dll"
+      "OriginalItemSpec": "C:\\Users\\devhi\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.1\\lib\\net7.0\\Microsoft.JSInterop.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.dll",
@@ -3791,23 +3791,6 @@
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Xml.XmlSerializer.dll"
     },
     {
-      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\34RYykya.gz",
-      "SourceId": "ProjetoFullStackCRUD.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Configuration.Binder.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.dll"
-    },
-    {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\35TYWKdJ.gz",
       "SourceId": "ProjetoFullStackCRUD.Client",
       "SourceType": "Computed",
@@ -3944,23 +3927,6 @@
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Security.Principal.Windows.dll"
     },
     {
-      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\5OQdi8u7.gz",
-      "SourceId": "ProjetoFullStackCRUD.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
-    },
-    {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\6E12OmTL.gz",
       "SourceId": "ProjetoFullStackCRUD.Client",
       "SourceType": "Computed",
@@ -4010,6 +3976,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\ProjetoFullStackCRUD.Shared.dll"
+    },
+    {
+      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\6YsjVl8X.gz",
+      "SourceId": "ProjetoFullStackCRUD.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
+    },
+    {
+      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\7+Dl+w5B.gz",
+      "SourceId": "ProjetoFullStackCRUD.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Configuration.Binder.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\73nyygWg.gz",
@@ -4369,23 +4369,6 @@
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.IO.Compression.ZipFile.dll"
     },
     {
-      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\BskYNmHy.gz",
-      "SourceId": "ProjetoFullStackCRUD.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/blazor.webassembly.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js"
-    },
-    {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\bwujURfc.gz",
       "SourceId": "ProjetoFullStackCRUD.Client",
       "SourceType": "Computed",
@@ -4454,6 +4437,23 @@
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Transactions.Local.dll"
     },
     {
+      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\CxRWeNOI.gz",
+      "SourceId": "ProjetoFullStackCRUD.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
+    },
+    {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\D3Ov8wl+.gz",
       "SourceId": "ProjetoFullStackCRUD.Client",
       "SourceType": "Computed",
@@ -4469,6 +4469,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Private.CoreLib.dll"
+    },
+    {
+      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\D56in2bM.gz",
+      "SourceId": "ProjetoFullStackCRUD.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\d7ePwCcz.gz",
@@ -4554,23 +4571,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Win32.Registry.dll"
-    },
-    {
-      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\DnukM+nf.gz",
-      "SourceId": "ProjetoFullStackCRUD.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\DvI6VaZt.gz",
@@ -4998,23 +4998,6 @@
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Net.WebProxy.dll"
     },
     {
-      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\HyOx+Eqi.gz",
-      "SourceId": "ProjetoFullStackCRUD.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
-    },
-    {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\IBXJ9Q7E.gz",
       "SourceId": "ProjetoFullStackCRUD.Client",
       "SourceType": "Computed",
@@ -5049,23 +5032,6 @@
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll"
     },
     {
-      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\ixPzQiyx.gz",
-      "SourceId": "ProjetoFullStackCRUD.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
-    },
-    {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\iYZE+gLE.gz",
       "SourceId": "ProjetoFullStackCRUD.Client",
       "SourceType": "Computed",
@@ -5098,23 +5064,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Security.Principal.dll"
-    },
-    {
-      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\J1X61LgI.gz",
-      "SourceId": "ProjetoFullStackCRUD.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\jlPqC7tQ.gz",
@@ -5236,23 +5185,6 @@
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Web.dll"
     },
     {
-      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\Koqw8HWt.gz",
-      "SourceId": "ProjetoFullStackCRUD.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Options.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll"
-    },
-    {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\kvcE3Aly.gz",
       "SourceId": "ProjetoFullStackCRUD.Client",
       "SourceType": "Computed",
@@ -5285,23 +5217,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Net.Mail.dll"
-    },
-    {
-      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\KwurO3yK.gz",
-      "SourceId": "ProjetoFullStackCRUD.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\L+q+b+hU.gz",
@@ -5387,6 +5302,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Xml.Linq.dll"
+    },
+    {
+      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\Lf+otLNd.gz",
+      "SourceId": "ProjetoFullStackCRUD.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\lgN50YlS.gz",
@@ -5814,6 +5746,23 @@
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Reflection.Primitives.dll"
     },
     {
+      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\Q0Ry9wTH.gz",
+      "SourceId": "ProjetoFullStackCRUD.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
+    },
+    {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\QgFluvEm.gz",
       "SourceId": "ProjetoFullStackCRUD.Client",
       "SourceType": "Computed",
@@ -6018,21 +5967,21 @@
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.IO.UnmanagedMemoryStream.dll"
     },
     {
-      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\sJe6YyUB.gz",
+      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\seGdlOmq.gz",
       "SourceId": "ProjetoFullStackCRUD.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
+      "RelativePath": "_framework/Microsoft.Extensions.Options.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
+      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\smtSqZgA.gz",
@@ -6409,6 +6358,23 @@
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Dynamic.Runtime.dll"
     },
     {
+      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\VP+JKYRc.gz",
+      "SourceId": "ProjetoFullStackCRUD.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
+    },
+    {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\wI+MOjbp.gz",
       "SourceId": "ProjetoFullStackCRUD.Client",
       "SourceType": "Computed",
@@ -6441,6 +6407,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Text.Encoding.CodePages.dll"
+    },
+    {
+      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\wQ+JPRWm.gz",
+      "SourceId": "ProjetoFullStackCRUD.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/blazor.webassembly.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\WWJj+g+j.gz",
@@ -6577,23 +6560,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Reflection.Extensions.dll"
-    },
-    {
-      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\Xpm+1wwQ.gz",
-      "SourceId": "ProjetoFullStackCRUD.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\Xua9YnsL.gz",
@@ -6851,6 +6817,23 @@
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Diagnostics.TextWriterTraceListener.dll"
     },
     {
+      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\zmYbKQVr.gz",
+      "SourceId": "ProjetoFullStackCRUD.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
+    },
+    {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\ZnyDumiF.gz",
       "SourceId": "ProjetoFullStackCRUD.Client",
       "SourceType": "Computed",
@@ -6866,6 +6849,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Reflection.Emit.ILGeneration.dll"
+    },
+    {
+      "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\zQDbJRox.gz",
+      "SourceId": "ProjetoFullStackCRUD.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\devhi\\Desktop\\Dev\\ProWay\\ProjetoFullStackCRUD\\ProjetoFullStackCRUD\\Client\\obj\\Debug\\net7.0\\build-gz\\ZsOV4HCD.gz",
